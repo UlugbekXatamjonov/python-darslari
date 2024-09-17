@@ -1,0 +1,18 @@
+{
+    "ism": "Anvarjon",
+    "familiya": "Olimov",
+    "yosh": 23,
+    "kasb": null,
+    "oila_azolari": {
+        "ota": "Abdulla Ahatov",
+        "ona": "Nigora Ahatova",
+        "uka": "Nodirjon Olimov"
+    },
+    "oilali": false,
+    "dostlar": [
+        "Abdulaziz",
+        "Toxir",
+        "Ravshan",
+        "Aziz"
+    ]
+}
